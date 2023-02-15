@@ -1,0 +1,2 @@
+(http://pyltp.readthedocs.io/zh_CN/latest/api.html#id2) 下载好ltp模型。
+[ltp简介](http://ltp.ai/)
