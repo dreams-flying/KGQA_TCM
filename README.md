@@ -37,3 +37,5 @@
 ![image](https://github.com/dreams-flying/KGQA_TCM/blob/master/images/search.png)
 问答界面
 ![image](https://github.com/dreams-flying/KGQA_TCM/blob/master/images/KGQA.png)
+# 参考
+https://github.com/chizhu/KGQA_HLM
